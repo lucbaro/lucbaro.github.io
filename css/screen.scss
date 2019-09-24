@@ -1,0 +1,12 @@
+---
+---
+
+@import
+
+    "themes/palette/{{ site.paletteScreen }}",
+    "themes/{{ site.style }}/screen",
+
+    "plugins/fontawesome/fontawesome",
+    "plugins/fontawesome/regular",
+    "plugins/fontawesome/solid",
+    "plugins/fontawesome/brands"

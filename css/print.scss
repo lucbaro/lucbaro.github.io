@@ -1,0 +1,12 @@
+---
+---
+
+@import
+
+    "themes/palette/{{ site.palettePrint }}",
+    "themes/{{ site.style }}/print",
+
+    "plugins/fontawesome/fontawesome",
+    "plugins/fontawesome/regular",
+    "plugins/fontawesome/solid",
+    "plugins/fontawesome/brands"
